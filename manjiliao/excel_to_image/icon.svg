@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Excel to image icon">
-  <rect width="128" height="128" rx="24" fill="#0f5132"/>
-  <rect x="18" y="18" width="54" height="92" rx="10" fill="#146c43"/>
-  <path d="M37 40h16l8 16 8-16h16L70 64l15 24H69L61 73l-8 15H37l15-24-15-24z" fill="#f8fff9"/>
-  <rect x="78" y="24" width="30" height="22" rx="6" fill="#f4c542"/>
-  <rect x="78" y="53" width="30" height="22" rx="6" fill="#8ecae6"/>
-  <rect x="78" y="82" width="30" height="22" rx="6" fill="#ffb4a2"/>
-</svg>
