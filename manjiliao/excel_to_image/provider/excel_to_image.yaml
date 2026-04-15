@@ -1,0 +1,17 @@
+extra:
+  python:
+    source: provider/excel_to_image.py
+identity:
+  author: manjiliao
+  description:
+    en_US: Convert uploaded Excel files into worksheet images
+    zh_Hans: 将上传的 Excel 文件转换为工作表图片
+  icon: icon.svg
+  label:
+    en_US: Excel To Image
+    zh_Hans: Excel 转图片
+  name: excel_to_image
+  tags:
+    - utilities
+tools:
+  - tools/excel_to_image.yaml
